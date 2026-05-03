@@ -2,7 +2,7 @@
 
 **Engineering Lead · Data Scientist · Munich, Germany 🇩🇪**
 
-[💼 LinkedIn](https://www.linkedin.com/in/souheibselmi) · [✉️ Email](mailto:selmi.souheib@gmail.com) · [🌐 Portfolio](https://souheibselmi.github.io)
+[💼 LinkedIn](https://www.linkedin.com/in/souheibselmi) · [✉️ Email](mailto:selmi.souheib@gmail.com)
 
 ---
 
