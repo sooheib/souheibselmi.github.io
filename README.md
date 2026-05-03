@@ -1,9 +1,6 @@
 # Hi, I'm Souheib 👋
 
 **Engineering Lead · Data Scientist · Munich, Germany 🇩🇪**
-
-[💼 LinkedIn](https://www.linkedin.com/in/souheibselmi) · [✉️ Email](mailto:selmi.souheib@gmail.com)
-
 ---
 
 ### About me
